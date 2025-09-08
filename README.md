@@ -11,7 +11,7 @@ A mock blog preview card
 
 ### Screenshot
 
-![Solution](./assets/images/solution.png)
+![Solution](./solution.png)
 
 ### Built with
 
